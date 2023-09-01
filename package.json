@@ -1,0 +1,16 @@
+{
+  "name": "desafio-audaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-browser-chrome": "npx cypress run --browser chrome",
+    "test-browser-firefox": "npx cypress run --browser firefox"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}
